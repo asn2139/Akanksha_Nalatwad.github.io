@@ -62,7 +62,7 @@ data("ny_noaa")
   separate(date, c("year", "month", "day"), sep="-",convert=TRUE) %>% 
   filter(snow %in% c(1:100)) %>% 
   filter(year %in% c(1990:2010)) %>% 
-  plot_ly(y = ~snow, x = ~year, type = "box", group= ~year,
+  plot_ly(y = ~snow, x = ~year, type = "box",
           colors = "viridis") %>% 
    layout(barmode="overlay",
                title = "Snowfall Histogram Of Years 1990-2010",
