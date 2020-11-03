@@ -54,18 +54,23 @@ Column {data-width=350}
 ### NY NOAA
 
 ```{r}
+devtools::install_github("p8105/p8105.datasets") 
 library(p8105.datasets)
 data("ny_noaa")
+ 
 
+ny_noaa_df=
  ny_noaa %>% 
-   janitor::clean_names() %>% 
-  separate(date, c("year", "month", "day"), sep="-",convert=TRUE) %>% 
-  filter(snow %in% c(1:100)) %>% 
-  filter(year %in% c(1990:2010)) %>% 
+  janitor::clean_names() %>% 
+  separate(date, c("year", "month", "day"), sep="-") %>%
+  filter(snow %in% c(1:100)) %>%
+  slice(1:1000)
+ 
+ ny_noaa_df %>%        
   plot_ly(y = ~snow, x = ~year, type = "box",
           colors = "viridis") %>% 
    layout(barmode="overlay",
-               title = "Snowfall Histogram Of Years 1990-2010",
+               title = "Snowfall Histogram Of Years 2004-2010",
                xaxis = list(title = "Year"),
                yaxis = list(title = "Snowfall (mm)"))
 ```
@@ -77,8 +82,9 @@ data("ny_noaa")
 library(p8105.datasets)
 data("rest_inspec")
 
-rest_inspec %>% 
+rest_inspec %>%
   janitor::clean_names() %>%
+  slice(1:500)%>%
 plot_ly(x= ~cuisine_description, y= ~score, type="scatter", color= ~cuisine_description,
           mode= "markers") %>% 
   layout(showlegend = FALSE,barmode="overlay",
