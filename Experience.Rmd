@@ -1,0 +1,89 @@
+---
+title: "Employment"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## Work Experience
+
+***STAR Program at SUNY Downstate Health Sciences University***
+
+*Research Assistant \hfill March 2020- Current*
+
+* Reviewing and cataloging current HIV literature related to various socio-behavioral outcomes, including (but not limited to) at-home testing, sexual partners, etc.
+* Data analysis on completely de-identified data.
+* Participation in IRB protocol writing and publishing 
+* Conducted a review of literature and prepared a literature review presentation.
+* Assisted with the transitioning from a DBS collection study to a telemedicine self-HIV test kit that involves HIV-risk counseling.
+* Assisted with preparing the study materials including the study advertisements, survey questions, information sheets, the HIV-self test kits, and more.
+* Trained as an HIV testing counselor, via Zoom, in preparation for the study.
+* Worked collaboratively on weekly Zoom calls with the PI, nurse scientist, Columbia MPH grad, and two medical students.
+
+***New York City Health and Hospitals***
+
+*Case Investigator \hfill June 2020-Current*
+
+* Interviewing COVID-19 positive patients to inform them of their test results and what isolation measures they should take
+* Relayed important information about COVID-19 diagnosis, NYC resources like food delivery as well as hotel isolation    accommodations
+* Attend relevant communication trainings like Culture Competency, Emotional Intelligence, etc 
+* Attend focus group sessions and monthly town hall session to give feedback on how the program can improve
+
+***Washington AIDS Partnership***
+
+*Fellow \hfill 2018-2019*
+
+* Attended weekly “Fifth Days” that involved volunteering at CBO’s around DC and informational sessions on public health issues
+* Wound care management of a variety of HIV-related cancers and illnesses
+* Served as a patient advocate for residents of DC living with HIV
+* Worked in case management and helping residents connect to social services like FoodStamps or SSI 
+* Assisted and sat bedside for patients that were dying 
+* Got trauma informed care and HIV risk counseling experience  
+* Was able to lead safe sex talks at different conferences and high schools
+
+
+## Internships
+
+
+***University of Pittsburgh School of Health and Rehabilitation Sciences***
+
+*Health Education Intern \hfill Fall 2017*
+
+* Did research and talked to other health professionals about the most prevalent diseases in the ED, focusing on diabetes
+* Learned about the main obstacles facing patients in lower socioeconomic areas suffering from diabetes, chronic pulmonary obstructive disease, and congestive heart failure 
+* Developed both presentations and lesson plans for diabetes to be presented at a new non-profit clinic that University of Pittsburgh will be opening up in the coming years      
+
+
+***Rhode Island Department of Health***
+
+*Intern \hfill 2018-2019*
+
+* Wrote investigative summaries of confidential complaints against licensed medical professionals for the professionals board to review
+* Helped write proposed legislation for a new bill to change the medical boards under the DOH
+* Attended and contributed to weekly performance review meetings in the office
+* Compiled matrices of data for analyzing the efficiency of complaint times for different medical professionals as well as reporting similar offenses for different health professions
+
+
+***Boston Museum of Science***
+
+*Intern \hfill Summer of 2012, 2013, 2014*
+
+* Learned how to interpret each of the Discovery Center’s exhibit areas: Biology, Geology, Physical Science, the Experiment Station, and Early Childhood
+* Served as a role model for new youth volunteers at the Experiment Station
+* Learned to present a Research Toy( The Novel Toy) and helped adult visitors understand research about how direct instruction from an adult impacts children’s play with an unfamiliar object)
+*	Worked with a group of peers to develop a suite of research toy activities that examine toddler impulse control and executive function
+*	Worked with a partner on developing a research toy that studies the exact age that children learn the early math principles
+
+
+## Research Experience
+
+### Publications
+
+https://mra.asm.org/content/3/3/e00595-15 
+
+https://www.sciencedirect.com/science/article/abs/pii/S0196064419303099
+
+
+
+

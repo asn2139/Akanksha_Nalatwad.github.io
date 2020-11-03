@@ -7,8 +7,6 @@ navbar:
       href: Experience.html
     - text: "Education"
       href: Education.html
-    - text: "Dashboard"
-      href: dasboard4.html
     - icon: fa-envelope fa-lg
       href: mailto:<asn2139@cumc.columbia.edu>
     - icon: fa-github fa-lg

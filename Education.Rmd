@@ -1,0 +1,49 @@
+---
+title: "Education"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+*Columbia University Mailman School of Public Health*, M.P.H Epidemiology \hfill 2019-Current
+
+*University of Pittsburgh*, B.S. Emergency Medicine \hfill 2014-2018
+
+## Columbia Coursework
+
+**Fall 2020**
+
+* Foundations of Public Health
+* Research Methods and Application
+* Determinants of Health
+* Public Health Interventions
+* Global and Developmental Perspectives on Health
+* Health Systems
+* Integration of Science and Practice 1
+
+
+**Spring 2020**
+
+* Analysis of Categorical Data 
+* Infectious Disease Epidemiology
+* Design and Conduct of Observational Epidemiology
+* Application of Epidemiological Research Methods (SAS Class)
+* Public Health Impact of STI's
+* Leadership Development
+* Integration of Science and Practice 2
+
+**Fall 2019**
+
+* Data Science (R Class)
+* Principles of Epidemiology 3: Data Analysis
+* Spatial Epidemiology
+* Emerging Infectious Diseases
+* Master's Essay in Epidemiology 
+
+
+
+
+
+
+
