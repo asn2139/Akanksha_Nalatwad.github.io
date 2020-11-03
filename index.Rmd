@@ -19,7 +19,7 @@ I am a second-year Master's in Public Health candidate at Columbia University Ma
 
 An amateur oil painter and sketch artist!
 
-```{r,out.width="49%",out.height="20%",fig.cap="caption",fig.show='hold',fig.align='center'}
+```{r,out.width="49%",out.height="20%",fig.show='hold',fig.align='center'}
 
 knitr::include_graphics(c("images/painting_1.jpeg","images/painting_2.jpeg"))
 ```
@@ -37,7 +37,7 @@ I learned sailing in high school and competed for many years. Best place to sail
 
 I have been learning  and practicing kathak for the last 15 years. It's been hard to practice since starting graduate school and the current pandemic. 
 
-```{r,out.width="49%",out.height="20%",fig.cap="caption",fig.show='hold',fig.align='center'}
+```{r,out.width="49%",out.height="20%",fig.show='hold',fig.align='center'}
 
 knitr::include_graphics(c("images/kathak_1.jpeg","images/kathak_2.jpg"))
 ```
