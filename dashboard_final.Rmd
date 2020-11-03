@@ -1,0 +1,58 @@
+---
+title: "Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+
+devtools::install_github("p8105/p8105.datasets") 
+library(p8105.datasets)
+data("instacart")
+
+
+
+instacart %>% 
+  count(aisle) %>% 
+  filter(n>10000) %>% 
+  mutate(
+    aisle=factor(aisle),
+    aisle= fct_reorder(aisle,n)
+  ) %>% 
+  plot_ly(x= ~aisle, y=~n,
+          alpha=.5,type="bar", mode="markers")
+  
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+fsdafdsfsj
+
+### Chart B
+
+```{r}
+
+```
+
+### Chart C
+
+```{r}
+
+```
+
