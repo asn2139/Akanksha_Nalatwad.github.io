@@ -35,24 +35,59 @@ instacart %>%
     aisle= fct_reorder(aisle,n)
   ) %>% 
   plot_ly(x= ~aisle, y=~n,
-          alpha=.5,type="bar", mode="markers")
+          alpha=.5,type="bar", mode="markers", color= ~aisle,
+          colors="viridis") %>% 
+  layout(barmode="overlay",
+         title= "Instacart Orders by Aisle",
+         xaxis= list (title="Aisle Type", tickangle=45),
+         yaxis=list (title= "Number of Orders"),
+         showlegend=FALSE
+        )
   
 ```
 
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-fsdafdsfsj
+
 
 ### Chart B
 
 ```{r}
+library(p8105.datasets)
+data("ny_noaa")
 
+ ny_noaa %>% 
+   janitor::clean_names() %>% 
+  separate(date, c("year", "month", "day"), sep="-",convert=TRUE) %>% 
+  filter(snow %in% c(1:100)) %>% 
+  filter(year %in% c(1990:2010)) %>% 
+  plot_ly(y = ~snow, x = ~year, type = "box", group= ~year,
+          colors = "viridis") %>% 
+   layout(barmode="overlay",
+               title = "Snowfall Histogram Of Years 1990-2010",
+               xaxis = list(title = "Year"),
+               yaxis = list(title = "Snowfall (mm)"))
 ```
 
 ### Chart C
 
 ```{r}
+
+library(p8105.datasets)
+data("rest_inspec")
+
+rest_inspec %>% 
+  janitor::clean_names() %>%
+plot_ly(x= ~cuisine_description, y= ~score, type="scatter", color= ~cuisine_description,
+          mode= "markers") %>% 
+  layout(showlegend = FALSE,barmode="overlay",
+               title = "Restaurant Scores by Cuisine",
+               xaxis = list(title = "Type of Food Served", tickangle = 45),
+               yaxis = list(title = "Score"))
+
+          
+
 
 ```
 
