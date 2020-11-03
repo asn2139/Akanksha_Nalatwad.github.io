@@ -51,7 +51,7 @@ Column {data-width=350}
 
 
 
-### Chart B
+### NY NOAA
 
 ```{r}
 library(p8105.datasets)
@@ -70,7 +70,7 @@ data("ny_noaa")
                yaxis = list(title = "Snowfall (mm)"))
 ```
 
-### Chart C
+### NYC Restaurant Inspection
 
 ```{r}
 
