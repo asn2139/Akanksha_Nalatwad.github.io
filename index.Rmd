@@ -32,6 +32,9 @@ I learned sailing in high school and competed for many years. Best place to sail
 
 ![](images/sailing.jpeg)
 
+[Experience](experience.html)
+[Education](Education.html)
+
 ### Kathak-Indian Classical Dance
 
 I have been learning  and practicing kathak for the last 15 years. It's been hard to practice since starting graduate school and the current pandemic. 
