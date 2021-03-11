@@ -12,7 +12,11 @@ output:
 ## About
 
 I am a second-year Master's in Public Health candidate at Columbia University Mailman School of Public Health living in NYC. I believe that epidemiology is not just a powerful methodology to analyze disease, but also a way to consolidate and communicate that data to the public and policy-makers. I hope that my research in epidemiology will be my way of fighting for social justice. My past experiences as a health educator, case manager, clinical provider, contact tracer, and researcher have solidified my passion for infectious disease and health disparities epidemiology. 
- 
+
+
+
+GitHub: 
+
 ## Hobbies {.tabset}
 
 ### Art

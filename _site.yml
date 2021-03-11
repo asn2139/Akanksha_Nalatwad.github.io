@@ -12,7 +12,6 @@ navbar:
     - icon: fa-envelope fa-lg
       href: mailto:<asn2139@cumc.columbia.edu>
     - icon: fa-github fa-lg
-      href: https://<asn2139>.github.io
-output:
+      href: href: https://github.com/asn2139/Akanksha_Nalatwad.github.io.git
   html_document:
     theme: cerulean
