@@ -41,7 +41,11 @@ output:
 * Emerging Infectious Diseases
 * Master's Essay in Epidemiology 
 
+**Spring 2020**
 
+* Public Heath Geographic Information Systems
+* Applied Regression
+* Outbreak Preparedness and Response in Resource-Limited Settings
 
 
 
