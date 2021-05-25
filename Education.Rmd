@@ -6,7 +6,7 @@ output:
     toc_float: true
 ---
 
-*Columbia University Mailman School of Public Health*, M.P.H Epidemiology \hfill 2019-2021
+*Columbia University Mailman School of Public Health*, M.P.H. Epidemiology \hfill 2019-2021
 
 *University of Pittsburgh*, B.S. Emergency Medicine \hfill 2014-2018
 
