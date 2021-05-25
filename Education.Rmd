@@ -6,13 +6,14 @@ output:
     toc_float: true
 ---
 
-*Columbia University Mailman School of Public Health*, M.P.H Epidemiology \hfill 2019-Current
+*Columbia University Mailman School of Public Health*, M.P.H Epidemiology \hfill 2019-2021
 
 *University of Pittsburgh*, B.S. Emergency Medicine \hfill 2014-2018
 
 ## Columbia Coursework
 
-**Fall 2020**
+
+**Fall 2019**
 
 * Foundations of Public Health
 * Research Methods and Application
@@ -33,21 +34,18 @@ output:
 * Leadership Development
 * Integration of Science and Practice 2
 
-**Fall 2019**
+**Fall 2020**
 
 * Data Science (R Class)
 * Principles of Epidemiology 3: Data Analysis
 * Spatial Epidemiology
 * Emerging Infectious Diseases
-* Master's Essay in Epidemiology 
+* Master's Essay in Epidemiology I
 
-**Spring 2020**
+**Spring 2021**
 
-* Public Heath Geographic Information Systems
-* Applied Regression
-* Outbreak Preparedness and Response in Resource-Limited Settings
-
-
-
-
+*Applied Regression
+*Public Health GIS
+*Outbreak Preparedness and Response in Resource-Limited Settings
+*Master's Essay in Epidemiology II
 
